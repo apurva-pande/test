@@ -1,0 +1,78 @@
+body{
+	background-image:url("../photos/letter.jpg");
+	background-size: 1400px 840px;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+/* uploading image in the background */
+
+
+ul li{
+	background-color: #FFBB51;
+	display: inline;
+	font-size: 12mm;
+	border:1.5px solid #C06800;
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-bottom: auto;
+	margin-right: 20px;
+	opacity: 80%;
+
+}
+
+/* Adding different colour in the menu  */
+
+p{
+	color: #2C2A2D;
+	font-family: 'Satisfy', cursive;
+}
+
+/*Changing color of the paragraph*/
+
+
+
+h1{
+	color: #2C2A2D;
+	font-family: 'Satisfy', cursive;
+
+}
+
+
+
+h2{
+
+	color: #2C2A2D;
+	font-family: 'Satisfy', cursive;
+}
+
+h3{
+
+	color: #2C2A2D;
+	font-family: 'Satisfy', cursive;
+}
+
+/* Giving h1, h2 and h3 a different colour */
+/*Changing font of h1, h2 and h3*/
+
+
+ol li{
+
+	color: #2C2A2D;
+}
+
+
+label{
+
+	color: #2C2A2D;
+	font-family: 'Satisfy', cursive;
+}
+
+a{
+	color:#2C2A2D;
+}
+
+p2{
+	color: #2C2A2D;
+}

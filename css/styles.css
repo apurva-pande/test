@@ -1,0 +1,73 @@
+body{
+	background-color: #FAF8F1;
+
+}
+
+/* giving a color to the background */
+
+ul li{
+	background-color: #EBCCC6;
+	display: inline;
+	font-size: 12mm;
+	border:1.5px solid #8B9BAE;
+	margin-top: 25px;
+	margin-left: 20px;
+	margin-bottom: auto;
+	margin-right: 20px;
+}
+
+/* making the top menu bar bigger, adding color and border to it  */
+
+p{
+	color: #06065C;
+}
+
+/*Changing color of the paragraph*/
+
+
+img{
+	width: 25%;
+	height: auto;
+	float: right;
+	opacity: 90%;
+	border: 2px solid #000000;
+}
+
+/*Placing the images on the right side of the webpage*/
+
+
+h1{
+	color: #5B376C;
+}
+
+
+h2{
+
+	color: #522E3B;
+}
+
+h3{
+
+	color: #522E3B;
+}
+
+/* Giving h1, h2 and h3 a different colour */
+
+
+ol li{
+
+	color: #06065C;
+}
+
+
+label{
+
+	color: #522E3B
+}
+
+a{
+	color: #4B3365;
+}
+
+
+
